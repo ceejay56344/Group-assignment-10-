@@ -1,0 +1,39 @@
+﻿CASE ID,Timestamp,  Do you consent to voluntarily participate in this study on student food insecurity?  ,  Where is your primary accommodation for your current semester?  ,Does the University of Zimbabwe provide you with meals as part of your accommodation arrangement?,How often do you receive meals provided by the university?,Are the meals provided by the university sufficient to meet your daily food needs?,Do you ever need to purchase additional food because the meals provided are insufficient?,"  During the past 7 days, did you ever skip at least one meal because you did not have enough money to obtain food  ?",  Do you usually prepare your own meals where you live?  ,"  During the past 30 days, did you run out of food because you did not have enough money to buy more?  ","  During the past 30 days, when you ran out of food, did you go a whole day and night without eating anything because there was not enough money or other resources for food?  "
+ID-0001,11/12/2026 12:44,No,,,,,,,,,
+ID-0002,11/12/2026 12:44,Yes,On-campus resident,"Yes, all meals",Most days,Sometimes,Sometimes,,,,
+ID-0003,11/12/2026 12:45,Yes,Off-campus accomodation,,,,,Yes,Yes,Yes,No
+ID-0004,11/12/2026 12:45,Yes,Off-campus accomodation,,,,,No,Yes,No,Yes
+ID-0005,11/12/2026 12:46,Yes,On-campus resident,"Yes, some meals",Most days,,No,Sometimes,Yes,Yes,No
+ID-0006,11/12/2026 12:46,Yes,Off-campus accomodation,,,,,No,Sometimes,No,No
+ID-0007,11/12/2026 12:46,Yes,Off-campus accomodation,,,,,No,Yes,Yes,No
+ID-0008,11/12/2026 12:46,Yes,Off-campus accomodation,,,,,No,Yes,Yes,No
+ID-0009,11/12/2026 12:47,Yes,Off-campus accomodation,,,,,Yes,Yes,Yes,Yes
+ID-0010,11/12/2026 12:47,Yes,On-campus resident,No meals are provided,Everyday,Sometimes,Yes,Sometimes,Yes,Yes,No
+ID-0011,11/12/2026 12:47,Yes,On-campus resident,"Yes, some meals",Everyday,Sometimes,Yes,,,,
+ID-0012,11/12/2026 12:47,Yes,Off-campus accomodation,,,,,Yes,Yes,Yes,Yes
+ID-0013,11/12/2026 12:48,Yes,On-campus resident,No meals are provided,Most days,No,Yes,Sometimes,No,No,Yes
+ID-0014,11/12/2026 12:49,No,,,,,,,,,
+ID-0015,11/12/2026 12:51,Yes,On-campus resident,"Yes, some meals",Occasionally,Sometimes,Sometimes,Sometimes,Sometimes,Yes,No
+ID-0016,11/12/2026 12:52,Yes,Off-campus accomodation,,,,,Sometimes,Yes,Yes,Yes
+ID-0017,11/12/2026 12:52,Yes,Off-campus accomodation,,,,,Yes,Yes,Yes,Yes
+ID-0018,11/12/2026 12:52,Yes,On-campus resident,"Yes, all meals",Everyday,Sometimes,Sometimes,Sometimes,Yes,Yes,No
+ID-0019,11/12/2026 12:52,Yes,Off-campus accomodation,,,,,No,Yes,No,No
+ID-0020,11/12/2026 12:53,Yes,On-campus resident,"Yes, all meals",Everyday,No,Yes,,,,
+ID-0021,11/12/2026 12:54,No,,,,,,,,,
+ID-0022,11/12/2026 12:54,Yes,On-campus resident,"Yes, all meals",Most days,No,Yes,No,No,No,No
+ID-0023,11/12/2026 12:54,No,,,,,,,,,
+ID-0024,11/12/2026 12:54,No,,,,,,,,,
+ID-0025,11/12/2026 12:55,No,,,,,,,,,
+ID-0026,11/12/2026 12:55,Yes,Off-campus accomodation,,,,,Sometimes,Yes,Yes,No
+ID-0027,11/12/2026 12:57,Yes,Off-campus accomodation,,,,,No,Yes,No,No
+ID-0028,11/12/2026 12:58,Yes,Off-campus accomodation,,,,,No,Yes,Yes,Yes
+ID-0029,11/12/2026 13:01,Yes,Off-campus accomodation,,,,,No,Yes,No,No
+ID-0030,11/12/2026 13:01,Yes,Off-campus accomodation,,,,,Yes,Sometimes,Yes,Yes
+ID-0031,11/12/2026 13:01,Yes,Off-campus accomodation,,,,,No,No,No,No
+ID-0032,11/12/2026 13:01,Yes,Off-campus accomodation,,,,,Sometimes,Sometimes,Yes,Yes
+ID-0033,11/12/2026 13:02,No,,,,,,,,,
+ID-0034,11/12/2026 13:02,Yes,Off-campus accomodation,,,,,Yes,Yes,Yes,Yes
+ID-0035,11/12/2026 13:04,Yes,Off-campus accomodation,,,,,No,Sometimes,No,No
+ID-0036,11/12/2026 13:04,Yes,Off-campus accomodation,,,,,Yes,Sometimes,Yes,Yes
+ID-0037,11/12/2026 13:08,Yes,Off-campus accomodation,,,,,Sometimes,Yes,No,No
+ID-0038,11/12/2026 13:08,Yes,On-campus resident,"Yes, all meals",Most days,Yes,No,,,,
