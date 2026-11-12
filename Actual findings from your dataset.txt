@@ -1,0 +1,8 @@
+Actual findings from your dataset
+Data quality check	Result
+Original submissions	38
+Consenting respondents	31
+Non-consenting respondents	7
+Exact duplicate records	0
+Repeated respondent IDs	0
+Missing accommodation among consenting respondents	0
